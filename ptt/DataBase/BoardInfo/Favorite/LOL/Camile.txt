@@ -1,0 +1,31 @@
+user: Weiting
+title Camille_Introduce
+-STARTARTICAL-
+
+PASSIVE
+ADAPTIVE DEFENSES
+Basic attacks on champions grant a shield equal to a percentage of Camille's maximum health against their damage type (Physical or Magic) for a brief duration.
+
+Q
+PRECISION PROTOCOL
+Camille's next attack deals bonus damage and grants bonus movement speed. This spell can be recast for a short period of time, doing significantly increased bonus damage if Camille delays a period of time between the two attacks.
+
+W
+TACTICAL SWEEP
+Camille blasts in a cone after a delay, dealing damage. Enemies in the outer half are slowed and take extra damage, while also healing Camille.
+
+E
+HOOKSHOT
+Camille pulls herself to a wall, leaping off and knocking up enemy champions upon landing.
+
+R
+THE HEXTECH ULTIMATUM
+Camille dashes to target champion, anchoring them to the area. She also deals bonus magic damage to the target with her basic attacks.
+
+
+
+-ENDARTICAL-
+message
+3 Brandon agree
+1 Weiting Push~
+2 Patrick piece of cak

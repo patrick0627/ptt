@@ -1,0 +1,13 @@
+user: Weiting
+title Aphelios_Introduce
+-STARTARTICAL-
+
+PASSIVE
+THE HITMAN AND THE SEER
+Aphelios wields 5 Lunari Weapons made by his sister Alune. He has access to two at a time: one main-hand and one off-hand. Each weapon has a unique Basic Attack and Ability. Attacks and abilities consume a weapon's ammo. When out of ammo, Aphelios discards the weapon and Alune summons the next of the 5.
+
+-ENDARTICAL-
+message
+3 Brandon agree
+1 Weiting Push~
+2 Patrick piece of cak

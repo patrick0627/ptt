@@ -1,0 +1,17 @@
+password B10703112
+level 3
+post
+./DataBase/BoardInfo/Favorite/Gossiping/1.txt	FuckYourPtt
+./DataBase/BoardInfo/Favorite/Gossiping/2.txt	refer
+./DataBase/BoardInfo/Favorite/Tech/1.txt	tcmc_IWantYou
+./DataBase/BoardInfo/Favorite/Gossiping/3.txt blue qq
+./DataBase/BoardInfo/Favorite/Gossiping/4.txt i am crazy debug machine
+./DataBase/BoardInfo/Favorite/BoyGirl/0.txt BoyGirlTop
+./DataBase/BoardInfo/Favorite/blabla/0.txt newboard
+./DataBase/BoardInfo/Favorite/BlaBla/0.txt BII
+./DataBase/BoardInfo/Test/0.txt TestTop
+./DataBase/BoardInfo/Favorite/Test/0.txt jde
+./DataBase/BoardInfo/Test/0.txt nldsn
+./DataBase/BoardInfo/Favorite/Test/0.txt mls
+./DataBase/BoardInfo/Favorite/Test/0.txt dsc
+./DataBase/BoardInfo/Favorite/Test/0.txt Top

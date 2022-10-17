@@ -1,0 +1,8 @@
+user: Brandon
+title blue qq
+-STARTARTICAL-
+qq~
+
+-ENDARTICAL-
+message
+3 pp qq

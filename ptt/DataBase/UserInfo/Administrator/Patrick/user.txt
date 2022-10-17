@@ -1,0 +1,8 @@
+password B10832024
+level 3
+post
+./DataBase/BoardInfo/Favorite/NBA/1.txt Laker
+./DataBase/BoardInfo/Favorite/HearthStone/Mage.txt Mage
+./DataBase/BoardInfo/Favorite/HearthStone/Paladin.txt Paladin
+./DataBase/BoardInfo/Favorite/HearthStone/Paladin.txt Rogue
+

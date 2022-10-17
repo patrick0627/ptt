@@ -1,0 +1,31 @@
+user: Weiting
+title Ahri_Introduce
+-STARTARTICAL-
+
+PASSIVE
+ESSENCE THEFT
+When Ahri strikes 9 enemies with her abilities, her next ability also heals her for each enemy hit.
+
+Q
+ORB OF DECEPTION
+Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back.
+
+W
+FOX-FIRE
+Ahri gains a brief burst of movement speed and releases three fox-fires, that lock onto and attack nearby enemies.
+
+E
+CHARM
+Ahri blows a kiss that damages and charms an enemy it encounters, instantly stopping movement abilities and causing them to walk harmlessly towards her. The target temporarily takes increased damage from Ahri.
+
+R
+SPIRIT RUSH
+Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown.
+
+
+
+-ENDARTICAL-
+message
+3 Brandon agree
+1 Weiting Push~
+2 Patrick piece of cak

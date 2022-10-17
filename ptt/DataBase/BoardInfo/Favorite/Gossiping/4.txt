@@ -1,0 +1,8 @@
+user: Brandon
+title i am crazy debug machine
+-STARTARTICAL-
+e04 e04 e04
+~~~~~
+
+-ENDARTICAL-
+message

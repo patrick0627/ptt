@@ -1,0 +1,15 @@
+password B10831022
+level 3
+post
+./DataBase/BoardInfo/Favorite/Tech/2.txt TCMCicoming
+./DataBase/BoardInfo/Favorite/LOL/Aatrox.txt Aatrox
+./DataBase/BoardInfo/Favorite/LOL/Ahri.txt Ahri
+./DataBase/BoardInfo/Favorite/LOL/Akali.txt Akali
+./DataBase/BoardInfo/Favorite/LOL/Aphelios.txt Aphelios
+./DataBase/BoardInfo/Favorite/LOL/Camile.txt Camile
+./DataBase/BoardInfo/Favorite/LOL/Fiora.txt Fiora
+./DataBase/BoardInfo/Favorite/LOL/Gwen.txt Gwen
+./DataBase/BoardInfo/Favorite/LOL/Irelia.txt Irelia
+./DataBase/BoardInfo/Favorite/LOL/Kai'sa.txt Kai'sa
+
+

@@ -1,0 +1,32 @@
+user: Weiting
+title Gwen_Introduce
+-STARTARTICAL-
+
+PASSIVE
+A THOUSAND CUTS
+Gwen's attacks deal bonus magic damage based on the targets health. She heals for a portion of the damage dealt to champions by this effect.
+
+Q
+SNIP SNIP!
+Gwen snips her scissors in a cone up to 6 times dealing magic damage. Gwen deals true damage to units in the center and applies her passive to them on each snip.
+
+W
+HALLOWED MIST
+Gwen summons mist that protects her from enemies outside of it. She can only be targeted by enemies who enter the mist.
+
+E
+SKIP 'N SLASH
+Gwen dashes a short distance then gains attack speed, attack range, and on-hit magic damage for a few seconds. If she hits an enemy during that time, this Ability's cooldown is partially refunded.
+
+R
+NEEDLEWORK
+Gwen hurls a needle that slows enemies hit, deals magic damage, and applies A Thousand Cuts to champions hit. This ability can be cast up to two more times, with each cast throwing additional needles and dealing more damage. Gwen must hit an enemy between each cast to unlock the next one.
+
+
+
+
+-ENDARTICAL-
+message
+3 Brandon agree
+1 Weiting Push~
+2 Patrick piece of cak
